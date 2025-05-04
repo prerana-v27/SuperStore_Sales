@@ -86,4 +86,6 @@ Superstore-Sales-Analysis/
 
 ## Snapshot of Dashboard
 
+![Image](https://github.com/user-attachments/assets/8738caf6-0a98-4dcf-83df-44790419a4a1)
+
 
